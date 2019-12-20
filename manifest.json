@@ -1,0 +1,27 @@
+{
+  "short_name": "Example PWA",
+  "name": "Example PWA",
+  "description" : "pwa description",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "related_applications": [
+    {
+    "platform": "web",
+    "url": "al-esc.github.io/pwa-example"
+    }
+  ]
+}
